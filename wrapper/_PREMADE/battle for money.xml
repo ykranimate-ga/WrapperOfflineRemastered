@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>&lt;theme id="battle for money" name="Battle For Money"&gt;&#13;</para>
+  <para>&lt;prop id="msp_jello" name="Jello" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_door_front_yard_house_door_closed.swf" enable="Y" is_premium="N" aid="9117" money="0" sharing="0"&gt;&#13;</para>
+  <para>                &lt;state id="bandicam 2020-10-13 21-12-45-786.swf" name="Talk" enable="Y" default="Y"/&gt;&#13;</para>
+  <para>                &lt;state id="bandicam 2020-10-13 21-19-14-742.swf" name="Talk Frown" enable="Y" default="Y"/&gt;&#13;</para>
+  <para>                &lt;state id="bandicam 2020-10-13 21-19-31-470.swf" name="Talk (Look Up)" enable="Y" default="Y"/&gt;&#13;</para>
+  <para>                &lt;state id="bandicam 2020-10-13 21-19-38-523.swf" name="Shocked" enable="Y" default="Y"/&gt;</para>
+</article>

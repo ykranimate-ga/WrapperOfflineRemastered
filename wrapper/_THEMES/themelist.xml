@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list version="1.0">
+	<fvm_meta theme_code="" is_biz="0" />
+	<theme id="business" name="Business Friendly" thumb="" cc_theme_id="business" />
+	<theme id="Community" name="Community Library" thumb="" cc_theme_id="Community" />
+        <theme id="vsfx" name="Visual Effects" thumb="" cc_theme_id="vsfx" />
+        <theme id="bizmodels" name="Buisiness Models" thumb="" cc_theme_id="bizmodels" />
+        <theme id="sticklybiz" name="Stickly Business" thumb="" cc_theme_id="sticklybiz" />
+        <theme id="zimmertwins" name="Zimmer Twins" thumb="" cc_theme_id="zimmertwins" />
+	<theme id="retro" name="Cartoon Classics" thumb="ann-stand.swf" cc_theme_id="retro" />
+	<theme id="stick" name="Stick Figure" thumb="" cc_theme_id="stick" />
+	<theme id="action" name="Lil' Peepz" thumb="" cc_theme_id="action" />
+	<theme id="common" name="Common" thumb="" cc_theme_id="common" />
+        <theme id="import" name="Imported Assets" thumb="" cc_theme_id="import" />
+        <theme id="monstermsh" name="Monsters Mayhem" thumb="" />
+	<theme id="politics2" name="White Houserz" thumb="" cc_theme_id="politics2" />
+	<theme id="chibi" name="Chibi Peepz" thumb="" cc_theme_id="chibi" />
+	<theme id="space" name="Space Peepz" thumb="" cc_theme_id="space" />
+	<theme id="ninja" name="Chibi Ninjas" thumb="" cc_theme_id="ninja" />
+	<theme id="anime" name="Anime" thumb="" cc_theme_id="anime" />
+	<theme id="yugandar" name="Yugandar's World 2.0" thumb="" cc_theme_id="yugandar" />
+	<theme id="ninjaanime" name="Ninja Anime" thumb="" cc_theme_id="ninjaanime" />
+        <theme id="politic" name="Politics &amp; Celebrity" thumb="hilary-stand.swf" />
+        <theme id="custom" name="Comedy World" thumb="" cc_theme_id="custom" />
+        <theme id="toonadv" name="Powerpuff Girls!" enable="N" />
+        <theme id="vietnam" name="Jungle Warfare" thumb="" />
+        <theme id="christmas" name="Holiday &amp; Seasonal" thumb="santa-stand.swf" />
+	<word>mikiko,vikiko</word>
+	<whiteword />
+	<excludeAssetIDs />
+	<points money="0" sharing="0" />
+</list>
