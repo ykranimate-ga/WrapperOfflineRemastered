@@ -12,3 +12,15 @@ Cuz it's most used than 1.0. that's why this long project never update.. after 2
 ![Capturethree](https://user-images.githubusercontent.com/115282193/197242463-e7f47f92-2e12-4429-bd56-3c20e4c0e5e8.PNG)
 ![Capturetoo](https://user-images.githubusercontent.com/115282193/197242465-a1f26f47-24f2-4678-8a7e-b65c105539b4.PNG)
 
+
+Removed Features From Patch 2 (final update)
+
+- Business Friendly Theme
+- Stickly Business Theme
+- Business Models Theme
+
+Edited ones.
+
+- Change v2 patch 1 to v2 patch 2 final
+- edit the static to say that this is final and will not recieve any updates sadly :(
+
