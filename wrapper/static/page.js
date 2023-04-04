@@ -144,7 +144,7 @@ module.exports = function (req, res, url) {
 				background: #eee;
 			}
 		</style>
-<p>you are using a patch 1 version of Wrapper Offline Remastered V2 you must wait untill patch 2 will come out on sunday</p>
+<p>you are using a patch 2 v2.5 final because i will never update cuz of this lvm is 1 year old..</p>
 	
 	<body style="margin:0px" onload="hideHeader()">${toObjectString(attrs, params)
 		}</body>${stuff.pages[url.pathname] || ''}`);
