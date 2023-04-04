@@ -2,7 +2,7 @@
 :: Original Author: benson#0411
 :: Project Runner: xomdjl_#1337
 :: License: MIT
-set WRAPPER_VER=2 PATCH 1
+set WRAPPER_VER=2 PATCH 2
 title Wrapper: Offline v%WRAPPER_VER% ^(build %WRAPPER_BLD%^) [Initializing...]
 
 ::::::::::::::::::::
@@ -85,7 +85,7 @@ if not exist "utilities\checks\disclaimer.txt" (
 )
 
 :: Welcome, Director Ford!
-echo  Wrapper Offline Remastered (Patch 1)
+echo  Wrapper Offline Remastered (Patch 2)
 echo A project from Yugandar's World Animator
 echo Version !WRAPPER_VER!
 echo:
